@@ -1,0 +1,39 @@
+* {
+  user-select: none;
+}
+.inform,
+.inform2,
+#titlecontainer {
+  width: 150px;
+}
+.inform input,
+.inform2 input,
+#titlecontainer input {
+  width: 100%;
+}
+#col,
+#cartno,
+#width,
+#height,
+#positionx,
+#positiony,
+#cartw,
+#carth,
+#bordersize,
+#bordercolor,
+#paddingx,
+#paddingy,
+#titlesize {
+  width: 70px;
+  margin-right: 30px;
+}
+h5 {
+  font-size: 16px;
+}
+
+#cart {
+  height: 240px;
+}
+#cart .body {
+  height: 50%;
+}
